@@ -1,0 +1,66 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Thursday, September 30, 2021
+Design Path:        D:\projects\homebrew_incubator\pcb\incubator-schematic.pcb
+Design Title:       
+Created:            30/09/2021 20:22:25
+Last Saved:         30/09/2021 21:47:43
+Editing Time:       85 min
+Units:              thou (precision 0)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.
