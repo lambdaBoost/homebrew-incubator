@@ -1,17 +1,30 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report Written:     Thursday, September 30, 2021
+Report Written:     Friday, October 01, 2021
 Design Path:        D:\projects\homebrew_incubator\pcb\incubator-schematic.pcb
 Design Title:       
 Created:            30/09/2021 20:22:25
-Last Saved:         30/09/2021 21:27:16
-Editing Time:       68 min
+Last Saved:         01/10/2021 22:07:42
+Editing Time:       121 min
 Units:              thou (precision 0)
 
 
 Checking integrity of Schematic "D:\projects\homebrew_incubator\pcb\incubator-schematic.sch" with PCB "D:\projects\homebrew_incubator\pcb\incubator-schematic.pcb"
 ==================================================================================================================================================================
 
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+
+Component 'JS202011CQN' package 'JS202011CQN' in PCB is newer version than Schematic, use Update Component to correct this.
+
+Value "Arrow Part Number" on component instance "S1" caused by library item mismatch.
+
+Value "Arrow Price/Stock" on component instance "S1" caused by library item mismatch.
+
+Use Update to reload Component "JS202011CQN" to add/alter Value "Mouser Price/Stock"
+Use Update to reload Component "JS202011CQN" to add/alter Value "RS Part Number"
+Use Update to reload Component "JS202011CQN" to add/alter Value "RS Price/Stock"
 
 End Of Report.

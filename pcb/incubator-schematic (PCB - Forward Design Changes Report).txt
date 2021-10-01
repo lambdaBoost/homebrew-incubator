@@ -1,18 +1,19 @@
 Forward Design Changes Report
 -----------------------------
 
-Report Written:     Thursday, September 30, 2021
+Report Written:     Friday, October 01, 2021
 Design Path:        D:\projects\homebrew_incubator\pcb\incubator-schematic.pcb
 Design Title:       
 Created:            30/09/2021 20:22:25
-Last Saved:         30/09/2021 21:27:16
-Editing Time:       68 min
+Last Saved:         01/10/2021 21:54:40
+Editing Time:       116 min
 Units:              thou (precision 0)
 
-Added component reference "J2" of component "694106301002", package "694106301002_1".
+Disconnected pin "R1.2" from net "N0034".
 
-Connected pin "J2.1" to net "N0026".
-Connected pin "J2.2" to net "N0025".
+Deleted net "N0034".
+
+Connected pin "R1.2" to net "GND".
 
 
 End Of Report.

@@ -1,12 +1,12 @@
 Design Rule Check Report
 ------------------------
 
-Report Written:     Thursday, September 30, 2021
+Report Written:     Friday, October 01, 2021
 Design Path:        D:\projects\homebrew_incubator\pcb\incubator-schematic.pcb
 Design Title:       
 Created:            30/09/2021 20:22:25
-Last Saved:         30/09/2021 21:47:43
-Editing Time:       85 min
+Last Saved:         01/10/2021 22:07:42
+Editing Time:       122 min
 Units:              thou (precision 0)
 
 
