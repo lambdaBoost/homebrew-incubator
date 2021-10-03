@@ -94,6 +94,6 @@ if __name__ == "__main__":
                 
                 miner_status = 0
                 
-                
-        time.sleep(10)
+        
+        time.sleep(120)
 
